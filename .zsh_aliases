@@ -1,0 +1,24 @@
+# General
+alias ll='ls -la'
+
+# Folders
+alias cdsp='cd ~/Projects/sujithpl.github.io'
+alias cdds='cd ~/Projects/diligentse-website'
+
+# Git
+alias gst='git status'
+alias glo='git log --oneline --decorate'
+
+alias gbv='git branch -v'
+alias gco='git checkout'
+alias gcb='git checkout -b'
+alias gbd='git branch --delete'
+alias gbD='git branch --delete --force'
+
+alias gd='git diff'
+alias ga='git add'
+alias gcam='git commit --all --message'
+
+alias gfo='git fetch origin'
+alias grv='git remote -v'
+alias grb='git rebase'
